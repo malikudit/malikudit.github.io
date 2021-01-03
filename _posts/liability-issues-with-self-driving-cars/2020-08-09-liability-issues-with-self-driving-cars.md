@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Liability issues with self-driving cars
+title: Liability Issues with Self-Driving Cars
 date: 2020-08-09 01:00 +0530
 modified: 2020-08-09 16:49:47 +05:30
 description: Autonomous vehicles - liability and ownership issues
