@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Talk - A new economy for a post-automation world
-date: 2020-08-09 01:00 +0530
-modified: 2020-08-09 16:49:47 +05:30
+date: 2021-04-01 01:00 +0530
+modified: 2021-04-01 16:49:47 +05:30
 description: A new economy for a post-automation world
 tag:
   - automation
@@ -11,14 +11,6 @@ tag:
 ---
 
 ### Introduction 💻
-
-We've been seeing rapid increases in the safety of autonomous vehicles over the past few years and their rapid rise in the
-mainstream along with it, yet an unresolved issue remains the possible legal and financial implications with regard to how
-the car insurance industry will adapt to these new changes. Liability, too, is an issue that will exist throughout all stages of
-autonomous vehicle development. Volvo, for example, recently became one of the first companies to acknowledge these issues, and
-stated that it will hold itself accountable in all cases of malfunctions/accidents involving one of their autonomous mode enabled
-vehicles.
-
 
 ### The Problem
 
