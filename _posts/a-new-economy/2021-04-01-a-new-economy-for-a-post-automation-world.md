@@ -15,3 +15,4 @@ tag:
 I gave a talk on the impact that technology and automation are having on labor forces and unemployment today, and what it means for political decisions surrounding future economic decisions that we must make as a society. You can find the talk here:
 
 <iframe width="420" height="315" src="https://www.youtube.com/watch?v=3i-rPaYvJMM" frameborder="0" allowfullscreen></iframe>
+
