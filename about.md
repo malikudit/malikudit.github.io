@@ -6,12 +6,10 @@ excerpt: Hi again! I was born in New Delhi, India and currently am a sophomore a
 comments: false
 ---
 
-Hi again! I was born in New Delhi, India and currently am a sophomore at Vanderbilt University in Nashville, TN. I've deeply enjoyed my 
-programming 🎒 journey so far, and I'm excited to learn more to be able to use technology to tackle the critical issues affecting our generation which I care deeply about - climate change, income inequality, and human rights. 
-I encourage you to check out some amazing work being done on these issues at the [Sunrise Movement](http://now.sh) and [Rose Caucus](http://now.sh).
+Hi again! I'm a junior at Vanderbilt University, and will be a Data Scientist Intern at Facebook in summer 2022 in Seattle! I'm extremely interested in product analytics based data science, and have enjoyed an equally exciting journey learning software engineering. I hope to be able to use technology to tackle critical issues affecting our generation - climate change, income inequality, and human rights. 
 
-In my free time, I'm a bedroom musician and love discovering indie music - check out my [Spotify](http://now.sh)! I'm also a huge
-Manchester United fan and love reading texts on political and critical theory.
+In my free time, I'm a bedroom musician and also love discovering indie music - check out my some of my playlists! [Spotify](https://open.spotify.com/user/k0vephjyyzuidcol84b7td26n)! 
+Also a big fan of Manchester United.
 
 I appreciate everything from a bug report to just a casual, sweet hello - so feel free to get in touch. 
 
