@@ -2,7 +2,7 @@
 title: About me
 permalink: /about/
 layout: page
-excerpt: Hi again! I was born in New Delhi, India and currently am a sophomore at Vanderbilt University in Nashville, TN.
+excerpt: Hi again! I'm a junior at Vanderbilt University, and will be a Data Scientist Intern at Facebook in summer 2022 in Seattle!
 comments: false
 ---
 
