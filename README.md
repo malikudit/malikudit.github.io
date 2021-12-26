@@ -2,7 +2,7 @@
 
 This is where my personal website and blog exist, built with a minimalist Jekyll theme called Klisé, which you can find
 <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">here</a>.<br>
-My website is live at <a href="https://malikudit.github.io" target="_blank" rel="noopener">uditmalik.me</a>
+My website is live at <a href="https://malikudit.github.io" target="_blank" rel="noopener">malikudit.github.io</a>
 
 ## Installation
 To use the original theme, run a local server first:
