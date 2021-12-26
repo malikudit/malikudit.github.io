@@ -1,8 +1,8 @@
 # Site settings
 title: Udit Malik # site title
 description: >- # site description
-  A personal portfolio website for Udit Malik. GitHub: 
-    <a href="https://github.com/piharpi" target="_blank" rel="noopener">@malikudit</a>.
+  A personal website for Udit Malik. GitHub: 
+    <a href="https://github.com/malikudit" target="_blank" rel="noopener">@malikudit</a>.
 lang: en-US # default lang
 timezone: Asia/Kolkata # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -13,7 +13,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Udit Malik # author name
   bio: >- # tell to the world
-    Hello! I'm a sophomore at Vanderbilt University, majoring in CS and Math with a minor in business. 
+    Hello! I'm a junior at Vanderbilt University, majoring in CS, and an incoming Data Scientist Intern at Meta! 
     Check out my <a href="https://github.com/malikudit" target="_blank" rel="noopener">@GitHub,</a>
     <a href="https://linkedin.com/in/udit-malik" target="_blank" rel="noopener">@LinkedIn,</a> or
     <a href="https://malikudit.github.io" target="_blank" rel="noopener">@Resume.</a>
@@ -25,7 +25,7 @@ author:
   avatar: /assets/img/avatar.jpg
 
 # Url settings
-url: "https://uditmalik.me"
+url: "https://malikudit.github.io"
 baseurl:
 permalink: /:title/
 google_analytics:
